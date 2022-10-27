@@ -15,7 +15,7 @@
         "url": "https://noio.games"
     },
     "repository": {
-        "type": "",
+        "type": "git",
         "url": "https://github.com/noio/games.noio.package-switcher.git"
     }
 }
