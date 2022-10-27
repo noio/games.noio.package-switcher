@@ -146,7 +146,7 @@ namespace Utils.Editor
 
         #endregion
 
-        [MenuItem("Window/Package Switcher...", false, 10)]
+        [MenuItem("Window/Package Switcher", false, 1509)]
         static void Init()
         {
             var window = (PackageSwitcher)GetWindow(typeof(PackageSwitcher));
