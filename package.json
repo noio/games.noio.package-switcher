@@ -1,0 +1,21 @@
+{
+    "name": "games.noio.package-switcher",
+    "version": "0.1.0",
+    "displayName": "Package Switcher",
+    "description": "Quickly switch between git and local source for Unity packages. To aid with package development in a live project.",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "dependencies": {},
+    "keywords": [
+        "Build"
+    ],
+    "author": {
+        "name": "Thomas van den Berg",
+        "email": "thomas@noio.nl",
+        "url": "https://noio.games"
+    },
+    "repository": {
+        "type": "",
+        "url": ""
+    }
+}
