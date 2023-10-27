@@ -1,9 +1,9 @@
 {
     "name": "games.noio.package-switcher",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "displayName": "Package Switcher",
     "description": "Quickly switch between git and local source for Unity packages. To aid with package development in a live project.",
-    "unity": "2019.1",
+    "unity": "2021.1",
     "unityRelease": "0b5",
     "dependencies": {},
     "keywords": [
